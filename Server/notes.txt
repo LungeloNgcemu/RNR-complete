@@ -1,0 +1,12 @@
+
+database password : #RNRAPP2024
+
+CREATE TABLE Breakdowns (
+    id SERIAL PRIMARY KEY,                        
+    breakdown_reference VARCHAR(255) NOT NULL,     
+    company_name VARCHAR(255) NOT NULL,            
+    driver_name VARCHAR(255) NOT NULL,             
+    registration_number VARCHAR(255) NOT NULL,     
+    breakdown_date TIMESTAMP NOT NULL,             
+    UNIQUE (breakdown_reference)                   
+);
