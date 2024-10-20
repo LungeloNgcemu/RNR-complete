@@ -19,6 +19,8 @@ The backend uses an online postgress SQL database hosted by Superbase which can 
 
 
 /************************************************************/
+
+
 Host : "aws-0-eu-central-1.pooler.supabase.com";
 
 Database Name :  "postgres";
@@ -28,6 +30,8 @@ User : "postgres.rlzivsmkflkmwzqxuttc";
 Port : 6543;
 
 Password : #RNRAPP2024
+
+
 /********************************************************/
 
 **Description**
