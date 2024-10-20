@@ -17,11 +17,18 @@ The folder contains the backend(Node.js) server and the front end site(React)
 **Instruction**
 The backend uses an online postgress SQL database hosted by Superbase which can be accessed through the pg admin (postgress panel) using these logins for demonstration purposes.
 
+
+/************************************************************/
 Host : "aws-0-eu-central-1.pooler.supabase.com";
-Database Name = "postgres";
+
+Database Name :  "postgres";
+
 User : "postgres.rlzivsmkflkmwzqxuttc";
+
 Port : 6543;
+
 Password : #RNRAPP2024
+/********************************************************/
 
 **Description**
 
